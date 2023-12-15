@@ -16,4 +16,6 @@ knitr::opts_chunk$set(
 
 ```{r setup}
 library(hpsropn)
+#Load data with data(data_week1), data(data_week2)
+#This is me testing editing a Vignette
 ```
