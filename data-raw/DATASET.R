@@ -26,10 +26,10 @@
 # Testing
 data_week1 <- arrow::read_parquet("data-raw/HPS_week1_data_parquet.parquet")
 usethis::use_data(data_week1, overwrite = TRUE)
-save(data_week1, file = "data/data_week1")
+save(data_week1, file = "data/data_week1.rda")
 
 # Week 2:
 # Read the Parquet file into a data frame
 data_week2 <- arrow::read_parquet("data-raw/HPS_week2_data_parquet.parquet")
 usethis::use_data(data_week2, overwrite = TRUE)
-save(data_week2, file = "data/data_week2")
+save(data_week2, file = "data/data_week2.rda")

@@ -4,12 +4,30 @@
 \name{hpsropn-package}
 \alias{hpsropn}
 \alias{hpsropn-package}
-\title{hpsropn: What the Package Does (One Line, Title Case)}
+\title{hpsropn: Provides Data to User by Week}
 \description{
-What the package does (one paragraph).
+This package provides HPS data to the user by specifying what week of data to load.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ChristopherNClark/hpsropn}
+  \item Report bugs at \url{https://github.com/ChristopherNClark/hpsropn/issues}
+}
+
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Prasad Bhoite \email{pbhoite@fiu.edu} (\href{https://orcid.org/0000-0003-2548-0066}{ORCID})
+
+Authors:
+\itemize{
+  \item Christopher Clark \email{chrclark@fiu.edu}
+}
+
+Other contributors:
+\itemize{
+  \item Krupa Patel \email{krpatel@fiu.edu} [contributor]
+}
 
 }
 \keyword{internal}
