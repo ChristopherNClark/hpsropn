@@ -14,7 +14,15 @@ Authors@R:
     person(given = "Krupa",
            family = "Patel",
            role = "ctb",
-           email = "krpatel@fiu.edu"))
+           email = "krpatel@fiu.edu"),
+    person(given = "Rachel",
+           family = "Clarke",
+           role = "ctb",
+           email = "kclarke@fiu.edu"),
+    person(given = "Nana",
+           family = "Garba",
+           role = "ctb",
+           email = "ngarba@fiu.edu"))
 Description: This package provides HPS data to the user by specifying what week of data to load.
 License: MIT + file LICENSE
 Encoding: UTF-8

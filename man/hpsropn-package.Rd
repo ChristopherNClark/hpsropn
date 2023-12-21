@@ -27,6 +27,8 @@ Authors:
 Other contributors:
 \itemize{
   \item Krupa Patel \email{krpatel@fiu.edu} [contributor]
+  \item Rachel Clarke \email{kclarke@fiu.edu} [contributor]
+  \item Nana Garba \email{ngarba@fiu.edu} [contributor]
 }
 
 }
