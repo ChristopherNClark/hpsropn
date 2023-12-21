@@ -33,3 +33,9 @@ save(data_week1, file = "data/data_week1.rda")
 data_week2 <- arrow::read_parquet("data-raw/HPS_week2_data_parquet.parquet")
 usethis::use_data(data_week2, overwrite = TRUE)
 save(data_week2, file = "data/data_week2.rda")
+
+# Week 3:
+# Read the Parquet file into a data frame
+data_week3 <- arrow::read_parquet("data-raw/HPS_week3_data_parquet.parquet")
+usethis::use_data(data_week3, overwrite = TRUE)
+save(data_week3, file = "data/data_week3.rda")
