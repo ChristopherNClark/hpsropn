@@ -1,4 +1,13 @@
-url: ~
+url: hpsropn/
 template:
   bootstrap: 5
+  home:
+    image:
+  article:
+    toc: true
+  navbar:
+    title: HPSROPN
+    right:
+      - text: GitHub
+        href: https://github.com/ChristopherNClark/hpsropn
 
